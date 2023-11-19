@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="connect_usb">close connection</string>
+    <string name="disconnect_usb">Disconnect USB</string>
+    <string name="enter_text_to_send">Enter text to send</string>
+    <string name="send">Send</string>
+    <string name="received_data_will_be_displayed_here">Received data will be displayed here</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="baud_prompt">Choose Baud-rate</string>
+    <string-array name="baud_arrays">
+        <item>300 baud</item>
+        <item>1200 baud</item>
+        <item>2400 baud</item>
+        <item>4800 baud</item>
+        <item>9600 baud</item>
+        <item>19200 baud</item>
+        <item>38400 baud</item>
+        <item>576600 baud</item>
+        <item>744880 baud</item>
+        <item>115200 baud</item>
+        <item>230400 baud</item>
+        <item>250000 baud</item>
+    </string-array>
+
+</resources>
